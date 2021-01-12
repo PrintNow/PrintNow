@@ -1,6 +1,4 @@
-# ReadMe
-关于我
+### Hi there, I'm [Chuwen!](https://nowtime.cc) 👋
 
-![Chuwen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrintNow&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrintNow)
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrintNow&show_icons=true" alt="Chuwen's GitHub Stats" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrintNow" /></a>
