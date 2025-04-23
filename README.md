@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shine!](https://nowtime.cc/) 👋
 
-| <a><img align="center" src="https://github-readme-stats-shine.vercel.app/api?username=PrintNow&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Shine's GitHub Stats" /></a> | <a><img align="center" src="https://github-readme-stats-shine.vercel.app/api/top-langs/?username=PrintNow&hide_border=true&layout=compact&hide=TSQL,Smarty,jupyter%20notebook" /></a> |
+| <a><img align="center" src="https://github-readme-stats-shine.vercel.app/api?username=PrintNow&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Shine's GitHub Stats" /></a> | <a><img align="center" src="https://github-readme-stats-shine.vercel.app/api/top-langs/?username=PrintNow&hide_border=true&layout=compact&hide=TSQL,Liquid,Blade,Dockerfile,CSS,Smarty,jupyter%20notebook" /></a> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### 🛠️ Tech Stack
